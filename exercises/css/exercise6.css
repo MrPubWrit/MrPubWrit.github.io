@@ -1,0 +1,41 @@
+ body {
+                font-family: Calibri;
+                background-color: #cbf5dd; }
+            h1 {
+                color: #D3D3D3;
+                background-color: #198450; 
+                padding: 1.5rem;
+                text-transform: uppercase;
+            }
+            h2 {
+                color: #D3D3D3;
+                background-color:#198450;
+                padding: 1.5rem;
+            }
+            p {
+                padding-left: 1.3rem;
+                padding-right: 1.3rem;
+                line-height: 1.5rem;
+                font-family: "Courier New", Courier, monospace;
+            }
+            img {
+                float: left;
+                border: 2px #74acbf solid;
+                margin: .65rem;
+                max-width: 90%;
+            }
+            a:link {
+                color: #2f09b5;
+                text-decoration: none;
+            }
+            a:visited {
+                color: #2e09b5a0;
+            }
+            a:hover {
+                color:darkslateblue;
+                text-decoration: underline;
+                font-weight: bold;
+            }
+            a:active {
+                color: navy;
+            }
