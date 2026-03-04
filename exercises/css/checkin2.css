@@ -1,0 +1,60 @@
+ body {
+                font-family: Calibri;
+                background-color: #e37676; }
+            hr {
+                border: none;
+                height: 1px;
+                background-color: #e41212;
+            }
+            h1 {
+                color: #ffe7a1;
+                background-color: #ff3333; 
+                padding: 1.5rem;
+                text-transform: uppercase;
+                font-size: 50px;
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            h2 {
+                color: #ffe7a1;
+                background-color:#ff3333;
+                padding: 1.5rem;
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            p {
+                padding-left: 1.3rem;
+                padding-right: 1.3rem;
+                line-height: 1.5rem;
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            figcaption {
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            ol {
+                margin: 2.0rem;
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            ul {
+                margin: 2.0rem;
+                font-family: 'Sen', Calibri, Arial, Helvetica, sans-serif;
+            }
+            img {
+                margin: .5rem;
+                border: 2px #e37676;
+                max-width: 70%;
+                height: auto;
+            }
+            a:link {
+                color: #1e008d;
+                text-decoration: none;
+            }
+            a:visited {
+                color: #1e0559a0;
+            }
+            a:hover {
+                color:#1e0559a0;
+                text-decoration: underline;
+                font-weight: bold;
+            }
+            a:active {
+                color: darkslateblue;
+            }
