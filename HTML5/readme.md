@@ -1,5 +1,5 @@
-#Kalana Amarasekara: My Accessibility Project#
------
+Kalana Amarasekara: My Accessibility Project
+===
  <img src="../images/kalana-amarasekara-headshot.jpg" alt="Kalana Amarasekara standing in front of a wall, wearing a checkered shirt with and his glasses.">
 <br>
 <br>
