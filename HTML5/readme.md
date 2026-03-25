@@ -8,3 +8,4 @@ My name's **Kalana Amarasekara**. I'm a junior at the University of Massachusett
 * Navigate to certain points of a video with ease. 
 
 In some instances, reading transcripts will require the use of screen readers, and semantic elements will allow them to be presented clearly. 
+😂😂😂
