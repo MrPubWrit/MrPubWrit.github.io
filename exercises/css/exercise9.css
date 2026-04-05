@@ -2,7 +2,6 @@
     /* border: 1px solid black; */
     display: grid;
     grid-template-rows: 150px min-content min-content 1fr;
-    1fr;
     grid-template-columns: 2fr 5fr 2fr;
     min-height: 100vh;
 }
@@ -49,6 +48,10 @@ h1 {
     text-align: center;
 }
 
+address {
+    font-style: normal;
+}
+
 footer {
     background-color: lightgray;
     padding: 2rem;
@@ -60,5 +63,4 @@ footer {
     display: grid;
     align-content: center;
     justify-content: center;
-    font-style: normal;
 }
