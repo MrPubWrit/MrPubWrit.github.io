@@ -82,7 +82,7 @@ body {
     justify-content: space-evenly;
     padding: 5px;
 }
-.five{
+.footer{
     grid-column: 1/5;
     grid-row: 5;
     background-color: darkslategrey;
