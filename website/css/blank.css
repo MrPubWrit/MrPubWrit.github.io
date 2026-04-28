@@ -58,9 +58,7 @@ body {
     min-height: 100vh;
     margin: 0;
 }
-.header{
-    grid-column: 1/5;
-    grid-row: 1;
+header{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -126,9 +124,7 @@ ul {
 figcaption {
     text-align: center;
 }
-.footer{
-    grid-column: 1/5;
-    grid-row: 5;
+footer{
     background-color: royalblue;
     text-align: center;
     height: 100%;
