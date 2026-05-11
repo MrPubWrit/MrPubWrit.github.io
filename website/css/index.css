@@ -32,8 +32,6 @@ nav a {
 }
 nav a:hover {
     color: lightgoldenrodyellow;
-    background-color: darkslategray;
-    padding: 1rem;
 }
 nav ul {
     display: flex;
