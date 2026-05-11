@@ -114,6 +114,7 @@ img {
 article {
     text-align: center;
     background-color: mintcream;
+    word-wrap: break-word;
     padding: 0.5rem;
     margin: 0.5rem;
     margin-bottom: 3rem;
