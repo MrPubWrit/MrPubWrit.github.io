@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Calibri;
+    overflow-x: hidden;
+}
+.gridcontainer{
+    background-color: lightblue;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    max-width: 100%;
+    min-width: 0;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.nav li{
+    list-style-type: none;
+    margin: 1rem;
+}
+nav a {
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 1.5rem;
+}
+nav a:hover {
+    color: goldenrod;
+    background-color: darkslategray;
+    padding: 1rem;
+}
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: antiquewhite; 
+    background-color: navy; 
+    gap: 1rem;
+    margin: 0px;
+    padding: 1rem;
+    list-style-type: none;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+header{
+    justify-content: center;
+    background-color: darkblue; 
+    padding: 1rem;
+    margin: 0px;
+}
+.three{
+    display: grid;
+    gap: 1rem;
+    background-color: lightblue;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    display: grid;
+    gap: 1rem;
+    background-color: lightblue;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    margin-bottom: 5px;
+    color:antiquewhite;
+    text-align: center;
+}
+h2 {
+    color: black;
+}
+p {
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+ul {
+    padding-left: 1.2rem;
+    margin-left: 0;
+}
+.exercises {
+    float: left;
+}
+figcaption {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+.wrap-right {
+    float: right;
+    margin: 1rem auto;
+    border-radius: 2rem;
+    padding: 1rem;
+    max-width: 100%;
+}
+article {
+    text-align: center;
+    background-color: mintcream;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    margin-bottom: 3rem;
+    border-radius: .5rem;
+}
+.homepage {
+    text-align: center;
+    color: black;
+    background-color: mintcream;
+    padding: .5rem;
+    margin: 1rem;
+    margin-bottom: 3rem;
+    border-radius: .5rem;
+}
+.iconcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.aboutme {
+    text-align: left;
+    color: black;
+    background-color: mintcream;
+    padding: 2rem;
+    margin: 1rem;
+    margin-bottom: 3rem;
+}
+.portfolio {
+    text-align: left;
+    padding: 2rem;
+    margin: 1rem;
+    margin-bottom: 3rem;
+}
+footer{
+    background-color: navy; 
+    text-align: center;
+    justify-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+}
+.footertext{
+    color: antiquewhite;
+}
