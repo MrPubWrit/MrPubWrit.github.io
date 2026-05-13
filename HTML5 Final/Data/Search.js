@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/About.htm'],s:['+','meant'],p:[['+',22],['cards',16],['for',1],['mental',23],['selecting',14],['used',6]]});
