@@ -120,6 +120,14 @@ article {
     margin-bottom: 3rem;
     border-radius: .5rem;
 }
+.articletext {
+    text-align: left;
+    background-color: mintcream;
+    margin: 0.5rem;
+    padding: .5rem;
+    margin-bottom: .25rem;
+    border-radius: .5rem;
+}
 .homepage {
     text-align: center;
     color: black;
